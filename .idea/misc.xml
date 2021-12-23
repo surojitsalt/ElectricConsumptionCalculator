@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Development/AndroidProjects/ElectricConsumptionCalculator/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Development/AndroidProjects/ElectricConsumptionCalculator/app/src/main/res/layout/activity_main.xml" value="0.12454710144927536" />
+        <entry key="..\:/Development/AndroidProjects/ElectricConsumptionCalculator/app/src/main/res/layout/activity_settings.xml" value="0.12454710144927536" />
+        <entry key="..\:/Development/AndroidProjects/ElectricConsumptionCalculator/app/src/main/res/layout/activity_splash.xml" value="0.12454710144927536" />
+        <entry key="..\:/Development/AndroidProjects/ElectricConsumptionCalculator/app/src/main/res/menu/main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Development/AndroidProjects/ElectricConsumptionCalculator/app/src/main/res/menu/settings.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
